@@ -31,7 +31,6 @@
 
 // What if the input graph has a loop? Does your function handle that reasonably?
 
-
 // Solution
 // We go through the nodes in one pass, assigning each node the first legal color we find.
 
